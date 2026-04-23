@@ -9,7 +9,7 @@ const Contact = () => {
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '20px', marginBottom: '40px' }}>
                     <div style={{ display: 'flex', alignItems: 'center', gap: '15px' }}>
                         <Mail color="var(--color-primary)" />
-                        <a href="mailto:aaryanmgiri@gmail.com" style={{ fontSize: '1.1rem' }}>aaryanmgiri@gmail.com</a>
+                        <a href="mailto:buildwitharyangiri@gmail.com" style={{ fontSize: '1.1rem' }}>buildwitharyangiri@gmail.com</a>
                     </div>
                     <div style={{ display: 'flex', alignItems: 'center', gap: '15px' }}>
                         <Phone color="var(--color-primary)" />
@@ -17,7 +17,7 @@ const Contact = () => {
                     </div>
                     <div style={{ display: 'flex', alignItems: 'center', gap: '15px' }}>
                         <MapPin color="var(--color-primary)" />
-                        <span style={{ fontSize: '1.1rem' }}>Pune, India</span>
+                        <span style={{ fontSize: '1.1rem' }}>Bangalore, INdia</span>
                     </div>
                 </div>
 

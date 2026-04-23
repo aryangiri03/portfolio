@@ -67,7 +67,7 @@ const HolographicHUD = () => {
                     {time.toLocaleTimeString([], { hour12: false })}
                 </div>
                 <div style={{ fontSize: '0.7rem', color: 'var(--color-text-dim)', marginTop: '5px' }}>
-                    LOC: PUNE, IN
+                    LOC: Bangalore, IN
                 </div>
 
                 {/* Animated Bars */}

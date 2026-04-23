@@ -37,7 +37,7 @@ const Overlay = () => {
                     </a>
                 </Magnetic>
                 <Magnetic>
-                    <a href="mailto:aaryanmgiri@gmail.com" aria-label="Email" className="social-icon-wrapper">
+                    <a href="mailto:buildwitharyangiri@gmail.com" aria-label="Email" className="social-icon-wrapper">
                         <Mail size={24} />
                     </a>
                 </Magnetic>
