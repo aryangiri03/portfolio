@@ -17,7 +17,7 @@ const Contact = () => {
                     </div>
                     <div style={{ display: 'flex', alignItems: 'center', gap: '15px' }}>
                         <MapPin color="var(--color-primary)" />
-                        <span style={{ fontSize: '1.1rem' }}>Bangalore, INdia</span>
+                        <span style={{ fontSize: '1.1rem' }}>Bangalore, India</span>
                     </div>
                 </div>
 
